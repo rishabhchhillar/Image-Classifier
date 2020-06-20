@@ -92,7 +92,8 @@ The checkpoint.pth file contains the information of a network trained to recogni
 
 ## Authors
 
-* **Rishabh Chhillar** - *Initial work* 
+* **Rishabh Chhillar** 
+* **Udacity**
 
 ##License
 
